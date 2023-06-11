@@ -1,7 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <rect style="opacity:0.2" width="56" height="52" x="4" y="7" rx="2.8" ry="2.8"/>
- <path style="fill:#ee923a" d="M 4,13 V 55.2 C 4,56.75 5.2496,58 6.8,58 H 57.2 C 58.75,58 60,56.75 60,55.2 V 13 L 59,12 H 5 Z"/>
- <path style="fill:#533314" d="M 6.8,6 C 5.25,6 4,7.25 4,8.8 V 13 H 60 V 8.8 C 60,7.25 58.75,6 57.2,6 Z"/>
- <path style="fill:#533314" d="M 20.8,51 C 19.25,51 18,52.25 18,53.8 V 58 H 44 V 53.8 C 44,52.25 42.75,51 41.2,51 Z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 6.8,6 C 5.25,6 4,7.25 4,8.8 V 9.8 C 4,8.25 5.25,7 6.8,7 H 57.2 C 58.75,7 60,8.25 60,9.8 V 8.8 C 60,7.25 58.75,6 57.2,6 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="folder-orange-desktop.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="6.609375"
+     inkscape:cx="34.647754"
+     inkscape:cy="23.451537"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="opacity:0.2"
+     width="56"
+     height="52"
+     x="4"
+     y="7"
+     rx="2.8"
+     ry="2.8"
+     id="rect2" />
+  <path
+     id="path4"
+     style="fill:#ff7800;fill-opacity:1"
+     d="M 6.8007812 6 C 5.2507828 6 4 7.2507828 4 8.8007812 L 4 13 L 4 55.199219 C 4 56.749217 5.2503828 58 6.8007812 58 L 57.199219 58 C 58.749217 58 60 56.749217 60 55.199219 L 60 13 L 60 8.8007812 C 60 7.2507828 58.749217 6 57.199219 6 L 6.8007812 6 z " />
+  <path
+     style="fill:#533314"
+     d="m 9.6,51 c -1.55,0 -2.8,1.25 -2.8,2.8 l 0,4.2 H 57.2 V 53.8 C 57.2,52.25 55.95,51 54.4,51 Z"
+     id="path8"
+     sodipodi:nodetypes="ssccsss" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 6.8,6 C 5.25,6 4,7.25 4,8.8 V 9.8 C 4,8.25 5.25,7 6.8,7 H 57.2 C 58.75,7 60,8.25 60,9.8 V 8.8 C 60,7.25 58.75,6 57.2,6 Z"
+     id="path10" />
+  <circle
+     style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke-width:1.42857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:42.9;paint-order:fill markers stroke"
+     id="path948"
+     cx="32"
+     cy="54.5"
+     r="2.5" />
+  <circle
+     style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke-width:1.42857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:42.9;paint-order:fill markers stroke"
+     id="path948-3"
+     cx="40"
+     cy="54.5"
+     r="2.5" />
+  <circle
+     style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke-width:1.42857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:42.9;paint-order:fill markers stroke"
+     id="path948-6"
+     cx="24"
+     cy="54.5"
+     r="2.5" />
 </svg>

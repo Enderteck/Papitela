@@ -55,35 +55,21 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="11.313709"
-     inkscape:cx="41.586717"
-     inkscape:cy="39.332815"
+     inkscape:cx="41.63091"
+     inkscape:cy="39.421201"
      inkscape:current-layer="svg14" />
   <g
      id="g1505"
      inkscape:label="folder"
      transform="translate(0,-0.5)">
-    <rect
-       style="opacity:0.2"
-       width="56"
-       height="36"
-       x="4"
-       y="22"
-       rx="2.8"
-       ry="2.8"
-       id="rect2" />
     <path
        style="fill:#da670b;fill-opacity:1"
        d="M 4,46.2 C 4,47.751 5.2488,49 6.8,49 H 57.2 C 58.751,49 60,47.751 60,46.2 V 15.8 C 60,14.249 58.751,13 57.2,13 H 32 C 27.8,13 26.4,7 22.2,7 H 6.8 C 5.2488,7 4,8.2488 4,9.8"
        id="path4" />
-    <rect
-       style="opacity:0.2;fill:#000000;fill-opacity:1"
-       width="56"
-       height="36"
-       x="4"
-       y="20"
-       rx="2.8"
-       ry="2.8"
-       id="rect6" />
+    <path
+       id="rect2"
+       style="opacity:0.2"
+       d="M 6.8007812 20 C 5.2495828 20 4 21.249583 4 22.800781 L 4 24.800781 L 4 53.199219 L 4 55.199219 C 4 56.750417 5.2495828 58 6.8007812 58 L 57.199219 58 C 58.750417 58 60 56.750417 60 55.199219 L 60 53.199219 L 60 24.800781 L 60 22.800781 C 60 21.249583 58.750417 20 57.199219 20 L 6.8007812 20 z " />
     <rect
        style="fill:#ffffff;fill-opacity:1"
        width="48"
