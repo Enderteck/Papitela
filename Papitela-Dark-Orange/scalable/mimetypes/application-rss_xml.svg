@@ -1,1 +1,81 @@
-<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="a" x1="49.571" x2="51.714" y1="52.714" y2="54.857" gradientTransform="translate(-68.667 -72.001) scale(2.3333)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient></defs><g transform="scale(.26458)"><rect x="8" y="4" width="48" height="56" ry="5" fill="#fc8f36" style="paint-order:stroke fill markers"/><path d="M56 46 42 60h9c2.77 0 5-2.23 5-5z" fill="url(#a)" fill-rule="evenodd" opacity=".15" style="paint-order:stroke fill markers"/></g><path d="M30.581 3.957 27.406.782v1.852c0 .733.59 1.323 1.323 1.323z" fill="#fff" fill-rule="evenodd" opacity=".35" style="paint-order:stroke fill markers"/><path d="M3.738 13.706c0-.163.056-.3.17-.41a.56.56 0 0 1 .41-.168c.16 0 .293.056.403.168.112.11.168.247.168.41a.554.554 0 0 1-.168.406.548.548 0 0 1-.403.165.565.565 0 0 1-.41-.165.548.548 0 0 1-.17-.406m-.033-2.61v.962c1.228 0 2.225.999 2.225 2.229h.964c0-1.762-1.43-3.19-3.19-3.19zm.001-2.102v1.063a4.229 4.229 0 0 1 4.224 4.23h1.066a5.294 5.294 0 0 0-5.29-5.293z" fill="#fff" font-size="13.59" font-weight="700"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg12443"
+   sodipodi:docname="application-rss+xml.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12445"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="12.015625"
+     inkscape:cx="27.672302"
+     inkscape:cy="31.958388"
+     inkscape:current-layer="svg12443" />
+  <defs
+     id="defs12431">
+    <linearGradient
+       id="a"
+       x1="49.571"
+       x2="51.714"
+       y1="52.714"
+       y2="54.857"
+       gradientTransform="translate(-68.667 -72.001) scale(2.3333)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop12426" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop12428" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="scale(.26458)"
+     id="g12437">
+    <rect
+       x="8"
+       y="4"
+       width="48"
+       height="56"
+       ry="5"
+       fill="#fc8f36"
+       style="paint-order:stroke fill markers;fill:#f98006;fill-opacity:1"
+       id="rect12433" />
+    <path
+       d="M56 46 42 60h9c2.77 0 5-2.23 5-5z"
+       fill="url(#a)"
+       fill-rule="evenodd"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="path12435" />
+  </g>
+  <path
+     d="M30.581 3.957 27.406.782v1.852c0 .733.59 1.323 1.323 1.323z"
+     fill="#fff"
+     fill-rule="evenodd"
+     opacity=".35"
+     style="paint-order:stroke fill markers"
+     id="path12439" />
+  <path
+     d="m 3.2293228,13.887033 c 0,-0.26073 0.089576,-0.479871 0.2719262,-0.655823 a 0.89575659,0.89575659 0 0 1 0.6558217,-0.268727 c 0.2559305,0 0.4686727,0.08958 0.6446249,0.268727 0.1791514,0.175952 0.268727,0.395093 0.268727,0.655823 A 0.88615924,0.88615924 0 0 1 4.8016956,14.536456 0.87656185,0.87656185 0 0 1 4.1570707,14.800384 0.90375446,0.90375446 0 0 1 3.501249,14.536456 0.87656185,0.87656185 0 0 1 3.2293228,13.887033 M 3.1765371,9.7121612 v 1.5387868 c 1.9642663,0 3.559033,1.597966 3.559033,3.565431 h 1.5419811 c 0,-2.818433 -2.2873786,-5.1026178 -5.1026137,-5.1026178 z m 0.0016,-3.3622862 V 8.0502127 A 6.7645621,6.7645621 0 0 1 9.9347006,14.816379 H 11.639838 A 8.4680993,8.4680993 0 0 0 3.1781371,6.349875 Z"
+     fill="#ffffff"
+     font-size="13.59px"
+     font-weight="700"
+     id="path12441"
+     style="stroke-width:1.59956" />
+</svg>

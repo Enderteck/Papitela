@@ -4,7 +4,7 @@
    height="64"
    version="1"
    id="svg16"
-   sodipodi:docname="folder-orange-documents-open.svg"
+   sodipodi:docname="folder-documents-open.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -55,8 +55,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="12.015625"
-     inkscape:cx="30.543563"
-     inkscape:cy="34.205462"
+     inkscape:cx="21.929779"
+     inkscape:cy="34.371912"
      inkscape:current-layer="svg16" />
   <g
      id="g176"
@@ -99,7 +99,7 @@
      id="g287"
      inkscape:label="doc">
     <path
-       style="fill:#533314"
+       style="fill:#663000;fill-opacity:1"
        d="M 25.5,31.5 C 24.668,31.5 24,32.168 24,33 v 17 c 0,0.832 0.668,1.5 1.5,1.5 h 13 C 39.332,51.5 40,50.832 40,50 V 36.5 l -5,-5 z"
        id="path14" />
   </g>

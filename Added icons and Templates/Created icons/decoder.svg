@@ -172,9 +172,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="10.783378"
-     inkscape:cy="19.79899"
+     inkscape:zoom="11.313709"
+     inkscape:cx="24.262601"
+     inkscape:cy="36.150834"
      inkscape:window-width="1920"
      inkscape:window-height="972"
      inkscape:window-x="0"
@@ -190,7 +190,7 @@
      r="7.1436095" />
   <g
      id="g1210"
-     transform="matrix(0.92857128,0,0,0.92857128,0.60475054,1.6227143)">
+     transform="matrix(1.0059522,0,0,1.0059522,-0.05039441,1.0523993)">
     <path
        d="m 3.0935291,8.5913625 h 3.9076157 v 3.9076145 h -2.930712 c -0.5700028,0 -0.9769037,-0.408404 -0.9769037,-0.976904 z"
        fill="#3d3846"
@@ -398,17 +398,21 @@
        clip-path="url(#h)"
        mask="url(#f)"
        transform="matrix(0.12211297,0,0,0.12211297,-0.32563451,-2.1545795)"
-       id="g407">
-      <path
-         d="M 20,100 V 60 h 104 v 40 z m 0,0"
-         fill="url(#g)"
-         id="path405"
-         style="fill:url(#g)" />
-    </g>
+       id="g407" />
+  </g>
+  <g
+     id="g383"
+     transform="matrix(0.92857143,0,0,1.0059522,0.6047505,1.0523993)">
+    <path
+       d="M 20,100 V 60 h 104 v 40 z m 0,0"
+       fill="url(#g)"
+       id="path405"
+       style="fill:url(#g)"
+       transform="matrix(0.12211297,0,0,0.12211297,-0.3256345,-2.1545795)" />
     <path
        d="M 2.1166252,10.056717 H 14.816374 V 9.5682665 H 2.1166252 Z m 0,0"
        fill="#fccbc5"
        id="path409"
-       style="stroke-width:0.122114" />
+       style="fill:#f1270c;fill-opacity:1;stroke-width:0.122114" />
   </g>
 </svg>

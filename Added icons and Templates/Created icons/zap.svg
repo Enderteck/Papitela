@@ -80,9 +80,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="7.9659998"
-     inkscape:cx="75.131812"
-     inkscape:cy="20.33643"
+     inkscape:zoom="11.265625"
+     inkscape:cx="33.020805"
+     inkscape:cy="34.085992"
      inkscape:window-width="1920"
      inkscape:window-height="972"
      inkscape:window-x="0"
@@ -98,11 +98,12 @@
      r="7.1436095" />
   <g
      id="g18"
-     transform="matrix(0.09788706,0,0,0.09788706,2.0059534,2.0059534)">
+     transform="matrix(0.09788706,0,0,0.09788706,2.0059534,2.0059534)"
+     style="stroke-width:2.70289173;stroke-dasharray:none">
     <path
        d="M 108,12 62,16 28,74 48,72 24,120 92,56 72,58 Z"
        fill="url(#shade)"
        id="path16"
-       style="fill:url(#shade)" />
+       style="fill:url(#shade);stroke:#000000;stroke-opacity:1;stroke-width:2.70289173;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
   </g>
 </svg>
