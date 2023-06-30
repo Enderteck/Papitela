@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg10"
-   sodipodi:docname="preferences-system.svg"
+   sodipodi:docname="Lien vers preferences-system.svg"
    xml:space="preserve"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -23,8 +23,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="13.21875"
-     inkscape:cx="48.491726"
-     inkscape:cy="31.621749"
+     inkscape:cx="44.63357"
+     inkscape:cy="31.6974"
      inkscape:current-layer="svg10" /><circle
      cx="8.4664993"
      cy="8.4664993"
@@ -45,7 +45,8 @@
        cy="288.53"
        r="3.4400001"
        opacity="0.15"
-       id="circle525" /><path
+       id="circle525"
+       style="fill:#000000;fill-opacity:1" /><path
        d="m 8.467,285.62 a 2.91,2.91 0 0 0 -2.91,2.91 2.91,2.91 0 0 0 2.91,2.91 2.91,2.91 0 0 0 2.91,-2.91 2.91,2.91 0 0 0 -2.91,-2.91 z m 0,1.323 a 1.587,1.587 0 0 1 1.587,1.587 1.587,1.587 0 0 1 -1.587,1.588 1.587,1.587 0 0 1 -1.588,-1.588 1.587,1.587 0 0 1 1.588,-1.587 z"
        id="path527" /><path
        d="m 7.938,284.43 h 1.058 v 1.852 H 7.938 Z m 0,6.35 h 1.058 v 1.852 H 7.938 Z m 4.63,-2.778 v 1.058 h -1.852 v -1.058 z m -6.35,0 v 1.058 H 4.366 v -1.058 z m 5.522,3.056 -0.747,0.747 -1.31,-1.31 0.748,-0.747 z m -4.49,-4.49 -0.747,0.747 -1.31,-1.31 0.748,-0.747 z m -1.309,5.237 -0.748,-0.748 1.31,-1.31 0.748,0.749 z m 4.49,-4.49 -0.748,-0.748 1.31,-1.31 0.748,0.749 z"
