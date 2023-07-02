@@ -5,7 +5,7 @@
    viewBox="0 0 16.933 16.933"
    version="1.1"
    id="svg14838"
-   sodipodi:docname="application-vnd.kde.kxmlguirc.svg"
+   sodipodi:docname="application-owl+xml.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,8 +22,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="12.015625"
-     inkscape:cx="50.892068"
-     inkscape:cy="33.706112"
+     inkscape:cx="46.148244"
+     inkscape:cy="33.789337"
      inkscape:current-layer="svg14838" />
   <defs
      id="defs14826">
@@ -54,14 +54,14 @@
        height="56"
        ry="5"
        fill="#f4f4f4"
-       style="paint-order:stroke fill markers;fill:#c0c0c0;fill-opacity:1"
+       style="paint-order:stroke fill markers;fill:#fefefe;fill-opacity:1"
        id="rect14828" />
     <path
        d="M56 46 42 60h9c2.77 0 5-2.23 5-5z"
        fill="url(#a)"
        fill-rule="evenodd"
        opacity=".1"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;opacity:0.5"
        id="path14830" />
   </g>
   <g

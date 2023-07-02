@@ -7,6 +7,7 @@
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -20,11 +21,23 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="12.015625"
-     inkscape:cx="27.672302"
-     inkscape:cy="31.958388"
+     inkscape:cx="45.607282"
+     inkscape:cy="31.292587"
      inkscape:current-layer="svg4581" />
   <defs
      id="defs4573">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient819">
+      <stop
+         style="stop-color:#f07e00;stop-opacity:1;"
+         offset="0"
+         id="stop815" />
+      <stop
+         style="stop-color:#ff9d33;stop-opacity:1;"
+         offset="1"
+         id="stop817" />
+    </linearGradient>
     <linearGradient
        id="a"
        x1="49.571"
@@ -41,6 +54,16 @@
          offset="1"
          id="stop4570" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient819"
+       id="linearGradient823"
+       x1="45"
+       y1="45"
+       x2="19"
+       y2="19"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76923089,0,0,0.76923089,7.3846113,7.3846113)" />
   </defs>
   <rect
      x="8"
@@ -59,7 +82,7 @@
      style="paint-order:stroke fill markers"
      id="path4577" />
   <path
-     style="fill:#ee7d00;fill-opacity:1;stroke-width:1.71429"
-     d="M 26.857143,20 V 34.04 C 26.308571,33.851429 25.76,33.714286 25.142857,33.714286 22.297143,33.714286 20,36.028571 20,38.857143 20,41.702857 22.297143,44 25.142857,44 c 2.845714,0 5.142857,-2.297143 5.142857,-5.142857 v -12 H 40.571429 V 34.04 c -0.548572,-0.188571 -1.097143,-0.325714 -1.714286,-0.325714 -2.845714,0 -5.142857,2.314285 -5.142857,5.142857 C 33.714286,41.702857 36.011429,44 38.857143,44 41.702857,44 44,41.702857 44,38.857143 V 20 Z"
+     style="opacity:1;fill:url(#linearGradient823);fill-opacity:1;stroke:none;stroke-width:1.53846;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.2;paint-order:markers stroke fill"
+     d="m 28.043955,22.769228 v 10.800003 c -0.421978,-0.145055 -0.843956,-0.25055 -1.318681,-0.25055 -2.189011,0 -3.956045,1.780219 -3.956045,3.956045 0,2.189011 1.767034,3.956046 3.956045,3.956046 2.18901,0 3.956044,-1.767035 3.956044,-3.956046 v -9.230771 h 7.91209 v 5.525276 c -0.421979,-0.145054 -0.843956,-0.250548 -1.318682,-0.250548 -2.189011,0 -3.956044,1.780219 -3.956044,3.956043 0,2.189011 1.767033,3.956046 3.956044,3.956046 2.189011,0 3.956045,-1.767035 3.956045,-3.956046 V 22.769228 Z"
      id="path4702" />
 </svg>
