@@ -22,8 +22,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="12.015625"
-     inkscape:cx="46.148244"
-     inkscape:cy="33.789337"
+     inkscape:cx="46.189857"
+     inkscape:cy="33.872562"
      inkscape:current-layer="svg14838" />
   <defs
      id="defs14826">
@@ -33,7 +33,7 @@
        x2="51.714"
        y1="52.714"
        y2="54.857"
-       gradientTransform="translate(-68.667 -72.001) scale(2.3333)"
+       gradientTransform="matrix(0.61734013,0,0,0.61734013,-18.16768,-19.049776)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -56,13 +56,6 @@
        fill="#f4f4f4"
        style="paint-order:stroke fill markers;fill:#fefefe;fill-opacity:1"
        id="rect14828" />
-    <path
-       d="M56 46 42 60h9c2.77 0 5-2.23 5-5z"
-       fill="url(#a)"
-       fill-rule="evenodd"
-       opacity=".1"
-       style="paint-order:stroke fill markers;opacity:0.5"
-       id="path14830" />
   </g>
   <g
      id="g279"
@@ -83,4 +76,11 @@
        style="fill:#bf40ae;fill-opacity:1;stroke-width:0.969688"
        id="path385" />
   </g>
+  <path
+     d="M 14.81648,12.170707 11.112386,15.8748 h 2.381203 c 0.732882,0 1.322891,-0.590009 1.322891,-1.32289 z"
+     fill="url(#a)"
+     fill-rule="evenodd"
+     opacity="0.1"
+     style="fill:url(#a);stroke-width:0.264578;paint-order:stroke fill markers"
+     id="path4577" />
 </svg>
