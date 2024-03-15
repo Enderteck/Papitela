@@ -226,7 +226,11 @@
          id="stop10" /><stop
          offset="1"
          stop-color="#3d3846"
-         id="stop12" /></linearGradient></defs><sodipodi:namedview
+         id="stop12" /></linearGradient><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3"><g
+         inkscape:label="Clip"
+         id="use3" /></clipPath></defs><sodipodi:namedview
      id="namedview14"
      pagecolor="#505050"
      bordercolor="#eeeeee"
@@ -236,9 +240,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="8.2285045"
-     inkscape:cx="41.502074"
-     inkscape:cy="19.140781"
+     inkscape:zoom="4.1142523"
+     inkscape:cx="64.531775"
+     inkscape:cy="48.611506"
      inkscape:window-width="1920"
      inkscape:window-height="972"
      inkscape:window-x="0"
