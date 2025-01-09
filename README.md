@@ -1,6 +1,4 @@
-# 🏳️‍🌈 Happy Pride 🏳️‍🌈
-
-# 🖸 Papitela 🖸
+# 🖸 Custom Tela Orange Circle  🖸
 
 A mix between flat and modern icons. Made from a mix of Papirus and Tela Circle with a few additions and changes
 
